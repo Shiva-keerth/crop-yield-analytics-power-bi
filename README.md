@@ -1,24 +1,35 @@
 # Crop Yield Analytics Dashboard (Power BI)
 
-Power BI dashboard analyzing crop yield performance and key agricultural factors.
+Power BI dashboard analyzing crop yield performance and agricultural factors.
 
-## Objective
-To understand how crop yield is influenced by rainfall, soil type, fertilizer usage, pesticide usage, humidity, temperature, irrigation method, and previous crop patterns.
+## 📊 Dashboard Preview
 
-## Tools
+### Overview
+![Overview](screenshot_overview.png)
+
+### Soil Type Analysis
+![Soil](screenshot_soil_analysis.png)
+
+### Region Analysis
+![Region](screenshot_region_analysis.png)
+
+## 🎯 Objective
+To analyze how crop yield is affected by rainfall, soil type, fertilizers, pesticides, irrigation methods, and previous crop patterns.
+
+## 🛠 Tools
 - Power BI
 - Data Analysis & Visualization
 
-## Key Analysis
-- Crop-wise yield comparison (Rice, Wheat, Barley, Maize)
-- Soil type impact (Loam, Sandy, Clay)
-- Region-wise patterns (rainfall, temperature, humidity)
-- Irrigation impact (Flood, Drip, Sprinkler, None)
-- Previous crop influence (crop rotation analysis)
+## 🔍 Key Insights
+- Crop-wise yield comparison
+- Soil type influence on productivity
+- Region-based rainfall and temperature patterns
+- Irrigation impact on yield
+- Crop rotation (previous crop) analysis
 
-## Dataset
-Dataset sourced from Kaggle (not included in this repository).
+## 📁 Files
+- `Crop_Yield_Analytics_Dashboard.pbix`
+- `Dashboard_Preview.pdf`
 
-## Files
-- PBIX file: Power BI report file
-- PDF export: Dashboard preview
+## 📂 Dataset
+Dataset sourced from Kaggle (not included).
