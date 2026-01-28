@@ -8,10 +8,10 @@ Power BI dashboard analyzing crop yield performance and agricultural factors.
 ![Overview](overview.png)
 
 ### Soil Type Analysis
-![Soil](screenshot_soil_analysis.png)
+![Soil](soil.png)
 
 ### Region Analysis
-![Region](screenshot_region_analysis.png)
+![Region](region.png)
 
 ## 🎯 Objective
 To analyze how crop yield is affected by rainfall, soil type, fertilizers, pesticides, irrigation methods, and previous crop patterns.
