@@ -5,7 +5,7 @@ Power BI dashboard analyzing crop yield performance and agricultural factors.
 ## 📊 Dashboard Preview
 
 ### Overview
-![Overview](screenshot_overview.png)
+![Overview](<img width="1501" height="826" alt="screenshot_overview png" src="https://github.com/user-attachments/assets/7f4d3ac9-b796-445c-9985-4ba8869c12cf" />)
 
 ### Soil Type Analysis
 ![Soil](screenshot_soil_analysis.png)
