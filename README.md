@@ -1,6 +1,70 @@
-# Crop Yield Analytics Dashboard (Power BI)
+🌾 Crop Yield Analytics Dashboard (SQL + Power BI)
 
-Power BI dashboard analyzing crop yield performance and agricultural factors.
+This project analyzes agricultural data to understand the factors influencing crop productivity. The analysis was performed using SQL for data exploration and Power BI for interactive visualization.
+
+🎯 Project Objective
+
+To analyze crop yield trends and identify how soil type, rainfall, temperature, irrigation, fertilizer usage, and regional conditions affect agricultural output.
+
+🛠 Tech Stack
+
+SQL — Data querying and analysis
+
+Power BI — Dashboard visualization
+
+Data Analytics — Trend and pattern analysis
+
+🗂 SQL Data Analysis Performed
+
+Before building the dashboard, SQL was used to analyze the dataset and answer key business questions:
+
+Crop-wise average yield analysis
+
+Region-wise productivity comparison
+
+Soil type impact on crop yield
+
+Irrigation method effectiveness
+
+Rainfall and temperature band analysis
+
+Fertilizer and pesticide efficiency calculations
+
+Previous crop influence on yield
+
+Identification of high-performing crop–region combinations
+
+SQL operations included:
+
+✔ Aggregations (AVG, SUM, COUNT)
+✔ Grouping and filtering
+✔ CASE statements for segmentation
+✔ Subqueries
+✔ Data quality checks
+
+📊 Power BI Dashboard Features
+
+The Power BI dashboard provides:
+
+Soil-based yield insights
+
+Crop performance comparison
+
+Region-wise productivity trends
+
+Irrigation and environmental impact analysis
+
+KPI-driven visualization
+
+📂 Dataset
+
+Dataset sourced from Kaggle and analyzed using SQL before visualization.
+
+📈 Outcome
+
+This project demonstrates end-to-end data analysis:
+
+SQL → Data Insights → Power BI Dashboard
 
 ## 📊 Dashboard Preview
 
@@ -13,23 +77,3 @@ Power BI dashboard analyzing crop yield performance and agricultural factors.
 ### Region Analysis
 ![Region](region.png)
 
-## 🎯 Objective
-To analyze how crop yield is affected by rainfall, soil type, fertilizers, pesticides, irrigation methods, and previous crop patterns.
-
-## 🛠 Tools
-- Power BI
-- Data Analysis & Visualization
-
-## 🔍 Key Insights
-- Crop-wise yield comparison
-- Soil type influence on productivity
-- Region-based rainfall and temperature patterns
-- Irrigation impact on yield
-- Crop rotation (previous crop) analysis
-
-## 📁 Files
-- `Crop_Yield_Analytics_Dashboard.pbix`
-- `Dashboard_Preview.pdf`
-
-## 📂 Dataset
-Dataset sourced from Kaggle (not included).
