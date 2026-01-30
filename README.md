@@ -77,3 +77,5 @@ SQL → Data Insights → Power BI Dashboard
 ### Region Analysis
 ![Region](region.png)
 
+SQL Queries: sql_analysis_queries.sql
+
