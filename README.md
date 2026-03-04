@@ -83,4 +83,4 @@ Dataset sourced from [Kaggle](https://www.kaggle.com) and analyzed using SQL bef
 
 **Shiva Keerth G**  
 📧 gantishivakeerth@gmail.com  
-🔗 [GitHub](https://github.com/Shiva-keerth) | [LinkedIn](https://linkedin.com/in/your-linkedin-here)
+🔗 [GitHub](https://github.com/Shiva-keerth) | [LinkedIn](https://www.linkedin.com/in/shiva-keerth-9574b92a6/)
