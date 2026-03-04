@@ -1,81 +1,86 @@
-🌾 Crop Yield Analytics Dashboard (SQL + Power BI)
+# 🌾 Crop Yield Analytics Dashboard (SQL + Power BI)
 
 This project analyzes agricultural data to understand the factors influencing crop productivity. The analysis was performed using SQL for data exploration and Power BI for interactive visualization.
 
-🎯 Project Objective
+---
+
+## 🎯 Project Objective
 
 To analyze crop yield trends and identify how soil type, rainfall, temperature, irrigation, fertilizer usage, and regional conditions affect agricultural output.
 
-🛠 Tech Stack
+---
 
-SQL — Data querying and analysis
+## 🛠️ Tech Stack
 
-Power BI — Dashboard visualization
+| Tool | Purpose |
+|---|---|
+| SQL | Data querying and exploration |
+| Power BI | Interactive dashboard visualization |
+| Kaggle | Dataset source |
 
-Data Analytics — Trend and pattern analysis
+---
 
-🗂 SQL Data Analysis Performed
+## 🗂️ SQL Analysis Performed
 
 Before building the dashboard, SQL was used to analyze the dataset and answer key business questions:
 
-Crop-wise average yield analysis
+- Crop-wise average yield analysis
+- Region-wise productivity comparison
+- Soil type impact on crop yield
+- Irrigation method effectiveness
+- Rainfall and temperature band analysis
+- Fertilizer and pesticide efficiency calculations
+- Previous crop influence on yield
+- Identification of high-performing crop–region combinations
 
-Region-wise productivity comparison
+**SQL operations used:**  
+✔ Aggregations (AVG, SUM, COUNT) ✔ Grouping and filtering ✔ CASE statements for segmentation ✔ Subqueries ✔ Data quality checks
 
-Soil type impact on crop yield
+📄 Full SQL queries → [`sql_analysis_queries.sql`](sql_analysis_queries.sql)
 
-Irrigation method effectiveness
+---
 
-Rainfall and temperature band analysis
+## 📊 Power BI Dashboard Features
 
-Fertilizer and pesticide efficiency calculations
+- 🌱 Soil-based yield insights
+- 🌾 Crop performance comparison
+- 🗺️ Region-wise productivity trends
+- 💧 Irrigation and environmental impact analysis
+- 📈 KPI-driven visualization
 
-Previous crop influence on yield
+---
 
-Identification of high-performing crop–region combinations
+## 📸 Dashboard Preview
 
-SQL operations included:
-
-✔ Aggregations (AVG, SUM, COUNT)
-✔ Grouping and filtering
-✔ CASE statements for segmentation
-✔ Subqueries
-✔ Data quality checks
-
-📊 Power BI Dashboard Features
-
-The Power BI dashboard provides:
-
-Soil-based yield insights
-
-Crop performance comparison
-
-Region-wise productivity trends
-
-Irrigation and environmental impact analysis
-
-KPI-driven visualization
-
-📂 Dataset
-
-Dataset sourced from Kaggle and analyzed using SQL before visualization.
-
-📈 Outcome
-
-This project demonstrates end-to-end data analysis:
-
-SQL → Data Insights → Power BI Dashboard
-
-## 📊 Dashboard Preview
-
-### Overview
+**Overview**
 ![Overview](overview.png)
 
-### Soil Type Analysis
+**Soil Type Analysis**
 ![Soil](soil.png)
 
-### Region Analysis
+**Region Analysis**
 ![Region](region.png)
 
-SQL Queries: sql_analysis_queries.sql
+---
 
+## 📈 Outcome
+
+This project demonstrates a complete end-to-end data analysis pipeline:
+
+**SQL → Data Insights → Power BI Dashboard**
+
+---
+
+## 📂 Dataset
+
+Dataset sourced from [Kaggle](https://www.kaggle.com) and analyzed using SQL before visualization.
+
+> ⚠️ Dataset not included — download from Kaggle
+
+---
+
+## 👤 Author
+
+**Shiva Keerth G**  
+📧 gantishivakeerth@gmail.com  
+🔗 [GitHub](https://github.com/Shiva-keerth) | [LinkedIn](https://linkedin.com/in/your-linkedin-here)
